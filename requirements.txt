@@ -1,0 +1,9 @@
+# EDA Tools Required for this Project
+
+# A SystemVerilog simulator that supports UVM 1.2 is required.
+# This project was tested and validated using:
+- Cadence Xcelium 23.09
+
+# Other compatible simulators include:
+# - Synopsys VCS
+# - Siemens Questa / ModelSim
